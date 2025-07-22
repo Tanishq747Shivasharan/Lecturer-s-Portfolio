@@ -46,5 +46,5 @@
 <h3>Screenshots</h3>
 
 ![About section with photo and academic biography](https://github.com/Tanishq747Shivasharan/Lecturer-s-Portfolio/blob/main/Webimg/Screenshot%202025-07-22%20131504.png)
-![Experience section with classroom and professional imagery]()
-![Skills and strengths listing]()
+![Experience section with classroom and professional imagery](https://github.com/Tanishq747Shivasharan/Lecturer-s-Portfolio/blob/main/Webimg/Screenshot%202025-07-22%20131849.png)
+![Skills and strengths listing](https://github.com/Tanishq747Shivasharan/Lecturer-s-Portfolio/blob/main/Webimg/Screenshot%202025-07-22%20131918.png)
