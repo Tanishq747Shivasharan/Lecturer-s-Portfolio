@@ -1,0 +1,284 @@
+/* General Styling */
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  background: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background: #002244;
+  color: #fff;
+  padding: 20px 0;
+}
+
+/* Navigation Bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5%;
+}
+
+nav h1 {
+  font-size: 24px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+nav ul li a:hover {
+  background-color: #e7a02d;
+  color: #002244;
+  transform: scale(1.1);
+}
+
+/* About Section */
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.about-container img {
+  border: 4px solid rgb(73, 126, 234);
+  border-radius: 20px;
+  width: 500px; 
+  height: auto;
+  margin-right: 15px; 
+  transition: transform 0.3s ease-out;
+}
+
+img:hover {
+  transform: scale(1.1); 
+}
+
+.about-text {
+  flex: 1; 
+  color: rgb(30, 30, 114);
+}
+
+/* Response Section */
+
+.respon-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.respon-text {
+  flex: 1;
+  color: rgb(30, 30, 114);
+}
+
+.respon-content img {
+  border: 4px solid rgb(207, 229, 81);
+  border-radius: 20px;
+  width: 450px; 
+  height: 800px;
+  margin-left: 15px; 
+  transition: transform 0.3s ease-out;
+}
+
+img:hover {
+  transform: scale(1.1); 
+}
+
+#experience {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#experience img  {
+  border: 4px solid rgb(25, 25, 147);
+  width: 460px;
+  height: 460px;
+  border-radius: 20px;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.exp-container {
+  color: rgb(30, 30, 114);
+}
+
+
+/* Card Styling */
+.card {
+  background: white;
+  margin: 30px 10%;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Experience Section */
+#experience {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+#experience ul {
+  flex: 1;
+}
+
+/* Video-scroller */
+
+.video-scroller {
+  width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  padding: 10px 0;
+}
+
+.video-container {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  nav {
+    flex-direction: column;
+  }
+
+  nav ul {
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Footer */
+.fa-footer {
+  background-color: #002244;
+  color: rgb(250, 215, 39);
+  padding: 40px 10%;
+  font-family: 'Arial', sans-serif;
+}
+
+.footer-top {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.footer-top h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.footer-contact p {
+  font-size: 16px;
+  margin: 8px 0;
+}
+
+.footer-contact i {
+  margin-right: 8px;
+  color: #8ce4fc;
+}
+
+.footer-contact a {
+  color: #8ce4fc;
+  text-decoration: none;
+}
+
+.footer-contact a:hover {
+  color: #e67e22;
+}
+
+.footer-social {
+  margin-top: 15px;
+}
+
+.footer-social a {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 20px;
+  color: #8ce4fc;
+  transition: color 0.3s ease-in-out;
+}
+
+.footer-social a:hover {
+  color: #fea500;
+}
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid #ffffff33;
+  padding-top: 20px;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+
+/* Repairs */
+/* About Section - Enhanced Details Styling */
+.about-details {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 15px;
+  color: #333;
+  text-decoration: none;
+}
+
+.about-details li {
+  margin-bottom: 8px;
+}
+
+.qualities h3 {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #1e1e72;
+}
+
+.qualities ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: #333;
+}
+
+.qualities ul li {
+  margin-bottom: 5px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
