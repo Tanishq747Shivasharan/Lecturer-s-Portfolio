@@ -19,3 +19,17 @@
 ├── script.js       # JavaScript for smooth scrolling and interactivity
 ├── images/         # Image assets (profile, lecturing, events, etc.)
 ```
+
+<h2>Installation & Usage</h2>
+
+1. Clone or Download the repository to your local system.
+2. Open index.html directly in your web browser to preview and interact with the portfolio.
+3. To make changes:
+
+- Update personal information, education, and skills in index.html.
+
+- Add/remove images in the images/ directory and reference them in the HTML.
+
+- Modify styles in style.css for custom themes or appearance.
+
+- Enhance interactivity via script.js.
