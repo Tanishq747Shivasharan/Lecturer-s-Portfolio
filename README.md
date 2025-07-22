@@ -28,4 +28,23 @@
    - Update personal information, education, and skills in index.html.
    - Add/remove images in the images/ directory and reference them in the HTML.
    - Modify styles in style.css for custom themes or appearance.
-  - Enhance interactivity via script.js.
+   - Enhance interactivity via script.js.
+
+<h2>Key Technologies Used</h2>
+
+- HTML5: Semantic structure for accessible content.
+- CSS3: Custom styles with responsive design.
+- JavaScript: Smooth scroll for navigation, interactive elements, and image scrolling.
+
+<h3>Customization</h3>
+
+- To update educational qualifications, edit the HTML table in the Education section.
+- Replace or add images in the /images directory and adjust their references in index.html.
+- Update contact information in the footer or contact section as needed.
+- Modify design and color schemes in the style.css file as per your preferences.
+
+<h3>Screenshots</h3>
+
+![About section with photo and academic biography]()
+- Experience section with classroom and professional imagery
+- Skills and strengths listing
