@@ -9,3 +9,13 @@
 - Smooth scroll navigation and visual enhancements for user interaction.
 - Dynamic photo and content display for showcasing accomplishments and teaching activities.
 - Easy-to-update single-page design using HTML, CSS, and JavaScript.
+
+<h2>Project Structure</h2>
+
+```
+/
+├── index.html      # Main HTML file with portfolio content
+├── style.css       # Custom styles for layout and aesthetics
+├── script.js       # JavaScript for smooth scrolling and interactivity
+├── images/         # Image assets (profile, lecturing, events, etc.)
+```
