@@ -3,6 +3,7 @@
 <p>This is a personal academic portfolio website for Kunal Revansidha Railiwal, Assistant Professor in English at Brahmadanda Mane Junior College. The website showcases educational background, professional experience, teaching philosophy, skills, and other achievements in a visually appealing and responsive format.</p>
 
 <h2>Features</h2>
+
 - Clean, professional, and accessible layout with responsive design for various screen sizes.
 - Sections include: About, Education, Skills, Experience, and Contact.
 - Smooth scroll navigation and visual enhancements for user interaction.
