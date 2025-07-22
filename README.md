@@ -25,11 +25,10 @@
 1. Clone or Download the repository to your local system.
 2. Open index.html directly in your web browser to preview and interact with the portfolio.
 3. To make changes:
+ - Update personal information, education, and skills in index.html.
 
-- Update personal information, education, and skills in index.html.
+ - Add/remove images in the images/ directory and reference them in the HTML.
 
-- Add/remove images in the images/ directory and reference them in the HTML.
+ - Modify styles in style.css for custom themes or appearance.
 
-- Modify styles in style.css for custom themes or appearance.
-
-- Enhance interactivity via script.js.
+ - Enhance interactivity via script.js.
