@@ -22,8 +22,8 @@
 
 <h2>Installation & Usage</h2>
 
-1. Clone or Download the repository to your local system.
-2. Open index.html directly in your web browser to preview and interact with the portfolio.
+1. **Clone or Download** the repository to your local system.
+2. **Open** index.html directly in your web browser to preview and interact with the portfolio.
 3. To make changes:
    - Update personal information, education, and skills in index.html.
    - Add/remove images in the images/ directory and reference them in the HTML.
@@ -32,9 +32,9 @@
 
 <h2>Key Technologies Used</h2>
 
-- HTML5: Semantic structure for accessible content.
-- CSS3: Custom styles with responsive design.
-- JavaScript: Smooth scroll for navigation, interactive elements, and image scrolling.
+- **HTML5**: Semantic structure for accessible content.
+- **CSS3**: Custom styles with responsive design.
+- **JavaScript**: Smooth scroll for navigation, interactive elements, and image scrolling.
 
 <h3>Customization</h3>
 
@@ -48,3 +48,17 @@
 ![About section with photo and academic biography](https://github.com/Tanishq747Shivasharan/Lecturer-s-Portfolio/blob/main/Webimg/Screenshot%202025-07-22%20131504.png)
 ![Experience section with classroom and professional imagery](https://github.com/Tanishq747Shivasharan/Lecturer-s-Portfolio/blob/main/Webimg/Screenshot%202025-07-22%20131849.png)
 ![Skills and strengths listing](https://github.com/Tanishq747Shivasharan/Lecturer-s-Portfolio/blob/main/Webimg/Screenshot%202025-07-22%20131918.png)
+
+<h3>Credits</h3>
+
+Created and maintained by Tanishq Shekhar Shivasharan
+
+<h3>License</h3>
+
+This project is intended for personal academic and professional presentation purposes.
+
+For any suggestions or contributions, please contact via the details provided in the website’s contact section.
+
+**Note**: Please ensure you host the image files (e.g., classroom, podium, formal, and teaching photos) in your project directory under images/ and match their references in your HTML code.
+
+You can save the above content as a file named README.md in the project root directory. This will provide clear project documentation for viewers and users of your portfolio website.
